@@ -18,24 +18,28 @@
 		"label": "移动云盘-静态资源"
 	},
 	{
-		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7350/MobileMusic7350_014000D.apk",
+		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7390/MobileMusic7390_014000D.apk",
 		"label": "咪咕音乐"
 	},
 	{
-		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_8.10.80.230921192459_3264.apk",
+		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_8.20.20.231130184235_3264.apk",
 		"label": "网易云音乐"
 	},
 	{
-		"value": "https://hebei02-yd-12022.cdn.163fen.com/s/a19.gdl.netease.com/godlike_3.59.0_r83169_1695020775_wyds_dl_homeholdh5.apk?ntes_trace_id=80203251c2",
+		"value": "https://hebei03-yd-12022.cdn.163fen.com/s/a19.gdl.netease.com/godlike_3.65.0_r85018_1701775342_wyds_dl_homeholdh5.apk?ntes_trace_id=ffcce48bf5a72010:ffcce48bf5a72010:0:1",
 		"label": "网易大神(河北移动CDN)"
 	},
 	{
-		"value": "https://hebei01-yd-12022.cdn.163fen.com/s/allycp.gdl.netease.com/g10_netease_baidu_sem_dev_5.3.7_com.netease.stzb.netease_2373zL1.apk?ntes_trace_id=9a559a1faf608ee4:9a559a1faf608ee4:0:1",
+		"value": "https://hebei03-yd-12022.cdn.163fen.com/s/allycp.gdl.netease.com/g10_netease_baidu_sem_dev_6.1.5_com.netease.stzb.netease_23hNTPO.apk?ntes_trace_id=7d021897f4a0a27d:7d021897f4a0a27d:0:1",
 		"label": "率土之滨(河北移动CDN)"
 	}, 
 	{
 		"value": "https://imeres.baidu.com/mac/baiduinput_mac_v6.0.3.66_1000e.dmg",
 		"label": "百度输入法"
+	}, 
+	{
+		"value": "https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.21.594.exe",
+		"label": "喜马拉雅-live"
 	}, 
 	{
 		"value": "http://imagev2.xmcdn.com/storages/2ebc-audiofreehighqps/45/77/GKwRIJII8Ab8AAIhhwJknOkY.jpeg",
@@ -67,7 +71,7 @@
 		"value": "https://img.cmvideo.cn/publish/poms/image/1702/804/112/202202141202_352670_HSJ1080H.jpg",
 		"label": "咪咕视频"
 	}, {
-		"value": "https://freeserver.migufun.com/resource/beta/apk/20230927102322/MiguPlay-V3.64.1.1_miguzsj.apk",
+		"value": "https://freeserver.migufun.com/resource/beta/apk/20231114094513/MiguPlay-V3.69.1.1_miguzsj.apk",
 		"label": "咪咕快游"
 	}, {
 		"value": "https://listen.10155.com/listener/womusic-bucket/90115000/mv_vod/volte_mp4/20230215/1625752132487675906.mp4",
@@ -95,12 +99,8 @@
 		"label": "小米"
 	},
 	{
-		"value": "https://cdn.aixifan.com/downloads/AcFun-acfunh5-release-6.62.0.1238_x64_60b608.apk",
+		"value": "https://cdn.aixifan.com/downloads/AcFun-acfunh5-release-6.70.0.1281_x64_738091.apk",
 		"label": "AcFun客户端APK"
-	}, 
-	{
-		"value": "https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.21.594.exe",
-		"label": "喜马拉雅-live"
 	}, 
 	{
 		"value": "https://dc.xiaohongshu.com/file/pkgs/base/xiaohongshu.apk",
@@ -117,6 +117,10 @@
 	{
 		"value": "https://imgwsdl.vivo.com.cn/appstore/developer/soft/20210125/202101251051528awqa.apk",
 		"label": "VIVO应用商城"
+	},
+	{
+		"value": "https://activity.hdslb.com/zzjs/20160608appDownload/img/pc/tittle.png",
+		"label": "哔哩哔哩"
 	}
 ]
 }]
