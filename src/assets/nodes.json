@@ -18,15 +18,15 @@
 		"label": "移动云盘-静态资源"
 	},
 	{
-		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7390/MobileMusic7390_014000D.apk",
+		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7410/MobileMusic7410_0140068.apk",
 		"label": "咪咕音乐"
 	},
 	{
-		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_8.20.20.231130184235_3264.apk",
+		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_9.0.05.240105111352_3264.apk",
 		"label": "网易云音乐"
 	},
 	{
-		"value": "https://hebei03-yd-12022.cdn.163fen.com/s/a19.gdl.netease.com/godlike_3.65.0_r85018_1701775342_wyds_dl_homeholdh5.apk?ntes_trace_id=ffcce48bf5a72010:ffcce48bf5a72010:0:1",
+		"value": "https://hebei03-yd-12022.cdn.163fen.com/s/a19.gdl.netease.com/godlike_3.67.1_r85501_1704513892_wyds_dl_homeholdh5.apk?ntes_trace_id=fa2fb50dc8c7154:fa2fb50dc8c7154:0:1",
 		"label": "网易大神(河北移动CDN)"
 	},
 	{
@@ -38,7 +38,7 @@
 		"label": "百度输入法"
 	}, 
 	{
-		"value": "https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.21.594.exe",
+		"value": "https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.23.680.exe",
 		"label": "喜马拉雅-live"
 	}, 
 	{
