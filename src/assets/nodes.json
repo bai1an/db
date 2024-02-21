@@ -1,4 +1,13 @@
 [{
+	"label": "垃圾网站D了它",
+	"options": [{
+		"value": "https://pcs3img.d2vm7.com/images/new_public/web/bg/fd/cs/ckao7m43n5hb4mnfi7h0_718158.png",
+		"label": "菠菜"
+	}, {
+		"value": "https://pas3img.8l54aiv.com/images/new_public/web/bg/fd/cs/ckais2d5rj79k6d3rnvg_370915.png",
+		"label": "菠菜2"
+	}]
+},{
 	"label": "免",
 	"options": [
 	{
@@ -18,7 +27,11 @@
 		"label": "移动云盘-静态资源"
 	},
 	{
-		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7410/MobileMusic7410_0140068.apk",
+		"value": "https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png",
+		"label": "移动云盘-静态资源2"
+	},
+	{
+		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7413/MobileMusic7413_014000D.apk",
 		"label": "咪咕音乐"
 	},
 	{
@@ -80,8 +93,11 @@
 		"value": "https://vod-origin-rjzy.gdoss.xstore.ctyun.cn/07da9eb52ad948c7b58b760003c0006b.mp4",
 		"label": "天翼云"
 	},{
-		"value": "https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202000005/CtyunClouddeskUniversal_2.0.0_202000005_x86_20230421161227_Setup_Signed.exe",
+		"value": "https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202010003/CtyunClouddeskUniversal_2.1.0_202010003_x86_20230905151733_Setup_signed.exe",
 		"label": "天翼云桌面"
+	},{
+		"value": "https://cloudphoneh5.buy.139.com/cloudimage/app/CP_V3.2.0.202307200940_3c4c9156_cp1215Release_protected_signed.apk",
+		"label": "移动云手机"
 	}]
 },{
 	"label": "其他",
