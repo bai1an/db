@@ -1,13 +1,4 @@
 [{
-	"label": "垃圾网站D了它",
-	"options": [{
-		"value": "https://pcs3img.d2vm7.com/images/new_public/web/bg/fd/cs/ckao7m43n5hb4mnfi7h0_718158.png",
-		"label": "菠菜"
-	}, {
-		"value": "https://pas3img.8l54aiv.com/images/new_public/web/bg/fd/cs/ckais2d5rj79k6d3rnvg_370915.png",
-		"label": "菠菜2"
-	}]
-},{
 	"label": "免",
 	"options": [
 	{
@@ -31,15 +22,15 @@
 		"label": "移动云盘-静态资源2"
 	},
 	{
-		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7413/MobileMusic7413_014000D.apk",
+		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7415/MobileMusic7415_0140068.apk",
 		"label": "咪咕音乐"
 	},
 	{
-		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_9.0.05.240105111352_3264.apk",
+		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_9.0.40.240313181620_3264.apk",
 		"label": "网易云音乐"
 	},
 	{
-		"value": "https://hebei03-yd-12022.cdn.163fen.com/s/a19.gdl.netease.com/godlike_3.67.1_r85501_1704513892_wyds_dl_homeholdh5.apk?ntes_trace_id=fa2fb50dc8c7154:fa2fb50dc8c7154:0:1",
+		"value": "https://hebei03-yd-12022.cdn.163fen.com/s/a19.gdl.netease.com/godlike_3.71.0_r86879_1710382831_wyds_dl_webhomepage.apk?ntes_trace_id=38dada7c6634244b:38dada7c6634244b:0:1",
 		"label": "网易大神(河北移动CDN)"
 	},
 	{
@@ -55,12 +46,12 @@
 		"label": "喜马拉雅-live"
 	}, 
 	{
-		"value": "http://imagev2.xmcdn.com/storages/2ebc-audiofreehighqps/45/77/GKwRIJII8Ab8AAIhhwJknOkY.jpeg",
-		"label": "喜马拉雅img"
-	}, 
+		"value": "https://a.sinaimg.cn/mintra/pic/2112130543/weibo_login.mp4",
+		"label": "微博"
+	},
 	{
-		"value": "http://imagev2.xmcdn.com/storages/b8c2-audiofreehighqps/19/D0/CMCoOSYEQtMeAAFwEgCbg8V9.jpg!xmagick=webp",
-		"label": "喜马拉雅img2"
+		"value": "https://cloudphoneh5.buy.139.com/cloudimage/app/CP_V3.2.0.202307200940_3c4c9156_cp1215Release_protected_signed.apk",
+		"label": "移动云手机"
 	}
 ]
 }, {
@@ -95,9 +86,6 @@
 	},{
 		"value": "https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202010003/CtyunClouddeskUniversal_2.1.0_202010003_x86_20230905151733_Setup_signed.exe",
 		"label": "天翼云桌面"
-	},{
-		"value": "https://cloudphoneh5.buy.139.com/cloudimage/app/CP_V3.2.0.202307200940_3c4c9156_cp1215Release_protected_signed.apk",
-		"label": "移动云手机"
 	}]
 },{
 	"label": "其他",
