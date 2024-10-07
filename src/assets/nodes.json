@@ -2,10 +2,6 @@
 	"label": "免",
 	"options": [
 	{
-		"value": "https://mesh.if.iqiyi.com/player/upgrade/file/last/IQIYIsetup_app.exe",
-		"label": "爱奇艺PC客户端"
-	},
-	{
 		"value": "https://game.gtimg.cn/images/nz/web202106/index/bc_part1.gif",
 		"label": "腾讯游戏-静态资源"
 	},
@@ -22,35 +18,31 @@
 		"label": "移动云盘-静态资源2"
 	},
 	{
-		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic7415/MobileMusic7415_0140068.apk",
+		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic74119/MobileMusic74119_014000D_20240926182027565.apk",
 		"label": "咪咕音乐"
 	},
 	{
-		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_9.0.40.240313181620_3264.apk",
+		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_9.1.71.240927205906_3264.apk",
 		"label": "网易云音乐"
 	},
-	{
-		"value": "https://hebei03-yd-12022.cdn.163fen.com/s/a19.gdl.netease.com/godlike_3.71.0_r86879_1710382831_wyds_dl_webhomepage.apk?ntes_trace_id=38dada7c6634244b:38dada7c6634244b:0:1",
-		"label": "网易大神(河北移动CDN)"
-	},
-	{
-		"value": "https://hebei03-yd-12022.cdn.163fen.com/s/allycp.gdl.netease.com/g10_netease_baidu_sem_dev_6.1.5_com.netease.stzb.netease_23hNTPO.apk?ntes_trace_id=7d021897f4a0a27d:7d021897f4a0a27d:0:1",
-		"label": "率土之滨(河北移动CDN)"
-	}, 
 	{
 		"value": "https://imeres.baidu.com/mac/baiduinput_mac_v6.0.3.66_1000e.dmg",
 		"label": "百度输入法"
 	}, 
 	{
-		"value": "https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.23.680.exe",
+		"value": "https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.50.861.exe",
 		"label": "喜马拉雅-live"
-	}, 
+	},
+	{
+		"value": "https://imagev2.xmcdn.com/storages/733d-audiofreehighqps/1A/0B/GAqhMA0K2HZYAASXrgMaptcY.jpg",
+		"label": "喜马拉雅-img"
+	},  
 	{
 		"value": "https://a.sinaimg.cn/mintra/pic/2112130543/weibo_login.mp4",
 		"label": "微博"
 	},
 	{
-		"value": "https://cloudphoneh5.buy.139.com/cloudimage/app/CP_V3.2.0.202307200940_3c4c9156_cp1215Release_protected_signed.apk",
+		"value": "https://h5.cp.139.com/phone/static/images/assets/pages/main/new_main_Intro.png",
 		"label": "移动云手机"
 	}
 ]
@@ -75,17 +67,17 @@
 		"value": "https://img.cmvideo.cn/publish/poms/image/1702/804/112/202202141202_352670_HSJ1080H.jpg",
 		"label": "咪咕视频"
 	}, {
-		"value": "https://freeserver.migufun.com/resource/beta/apk/20231114094513/MiguPlay-V3.69.1.1_miguzsj.apk",
+		"value": "https://freeserver.migufun.com/resource/beta/apk/20240712112601/MiguPlay-V3.85.1.1_miguzsj.apk",
 		"label": "咪咕快游"
 	}, {
-		"value": "https://listen.10155.com/listener/womusic-bucket/90115000/mv_vod/volte_mp4/20230215/1625752132487675906.mp4",
-		"label": "手机电视"
+		"value": "https://m1.ad.10010.com/small_video/uploadImg/1669798519261.png",
+		"label": "联通静态"
 	}, {
-		"value": "https://vod-origin-rjzy.gdoss.xstore.ctyun.cn/07da9eb52ad948c7b58b760003c0006b.mp4",
+		"value": "https://vod-origin-rjzy.gdoss.xstore.ctyun.cn/8ee30576c30d40518c4dae03f7eacf3c.mp4",
 		"label": "天翼云"
 	},{
-		"value": "https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202010003/CtyunClouddeskUniversal_2.1.0_202010003_x86_20230905151733_Setup_signed.exe",
-		"label": "天翼云桌面"
+		"value": "https://static.e.189.cn/open/login/page/web/v5.0/static/js/captch.min.js?v1.1",
+		"label": "天翼云盘"
 	}]
 },{
 	"label": "其他",
@@ -111,10 +103,6 @@
 		"label": "小红书"
 	},
 	{
-		"value": "https://storage.jd.com/jdmobile/JDMALL-PC2.apk",
-		"label": "京东CDN"
-	},
-	{
 		"value": "https://wwwstatic.vivo.com.cn/vivoportal/files/resource/funtouch/1651200648928/images/os2-jude-video.mp4",
 		"label": "VIVO应用商城-静态资源"
 	},
@@ -125,6 +113,10 @@
 	{
 		"value": "https://activity.hdslb.com/zzjs/20160608appDownload/img/pc/tittle.png",
 		"label": "哔哩哔哩"
+	},
+	{
+		"value": "https://mesh.if.iqiyi.com/player/upgrade/file/last/IQIYIsetup_app.exe",
+		"label": "爱奇艺PC客户端"
 	}
 ]
 }]
