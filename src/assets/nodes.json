@@ -40,7 +40,7 @@
 	}, 
     {
 		"value": "https://freeserver.migufun.com/resource/beta/apk/20240712112601/MiguPlay-V3.85.1.1_miguzsj.apk",
-		"label": "咪咕快游2"
+		"label": "咪咕快游-apk"
 	}
 ]
 },  {
@@ -109,19 +109,19 @@
 	},
 	{
 		"value": "https://dc.xiaohongshu.com/file/pkgs/base/xiaohongshu.apk",
-		"label": "小红书"
+		"label": "小红书-apk"
 	},
 	{
 		"value": "https://wwwstatic.vivo.com.cn/vivoportal/files/resource/funtouch/1651200648928/images/os2-jude-video.mp4",
-		"label": "VIVO应用商城-静态资源"
+		"label": "VIVO应用商城-mp4"
 	},
 	{
 		"value": "https://imgwsdl.vivo.com.cn/appstore/developer/soft/20210125/202101251051528awqa.apk",
-		"label": "VIVO应用商城"
+		"label": "VIVO应用商城-apk"
 	},
 	{
 		"value": "https://activity.hdslb.com/zzjs/20160608appDownload/img/pc/tittle.png",
-		"label": "哔哩哔哩"
+		"label": "哔哩哔哩-png"
 	},{
 		"value": "https://lf9-cdn-tos.bytecdntp.com/cdn/yuntu-index/1.0.4/case/maiteng/detailbg.png",
 		"label": "今日头条-png"
