@@ -1,36 +1,94 @@
 [{
-	"label": "免",
+	"label": "移动",
 	"options": [
-	{
-		"value": "https://game.gtimg.cn/images/nz/web202106/index/bc_part1.gif",
-		"label": "腾讯游戏-静态资源"
-	},
-	{
-		"value": "https://lf9-cdn-tos.bytecdntp.com/cdn/yuntu-index/1.0.4/case/maiteng/detailbg.png",
-		"label": "今日头条-静态资源"
-	},
+	
 	{
 		"value": "https://img.mcloud.139.com/material_prod/material_media/20231013/1697185068132.gif",
-		"label": "移动云盘-静态资源"
+		"label": "移动云盘-gif"
 	},
 	{
 		"value": "https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png",
-		"label": "移动云盘-静态资源2"
+		"label": "移动云盘-png"
 	},
 	{
-		"value": "https://d.musicapp.migu.cn/upload/fbpt_rsync_apps/local/signed/MobileMusic74119/MobileMusic74119_014000D_20240926182027565.apk",
-		"label": "咪咕音乐"
+		"value": "https://yun.mcloud.139.com/hongseyunpan/2.43G.zip",
+		"label": "移动云盘-zip"
 	},
 	{
-		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_9.1.71.240927205906_3264.apk",
-		"label": "网易云音乐"
+		"value": "https://wsdkdl.migu.cn/common/mgmusic/migu_https.js",
+		"label": "咪咕音乐-js"
 	},
 	{
+		"value": "https://img.aikan.miguvideo.com/publish/noms/2024/04/22/1O5MNLF3AN2JL.gif",
+		"label": "咪咕爱看-gif"
+	},
+	{
+		"value": "https://h5.cp.139.com/phone/static/images/assets/pages/main/new_main_Intro.png",
+		"label": "移动云手机-png"
+	},
+    {
+		"value": "https://img.cmvideo.cn/publish/noms/2023/12/06/1O4SHFIFR36BD.gif",
+		"label": "咪咕视频-gif"
+	},
+    {
+		"value": "https://img.cmvideo.cn/publish/poms/image/1702/804/112/202202141202_352670_HSJ1080H.jpg",
+		"label": "咪咕视频-jpg"
+	}, 
+    {
+		"value": "https://gcache.migu.cn/prod/upload/game_resource/channel_for_homepage_game2/202408/2909/59/20240829095855985_mgwebp1.jpg",
+		"label": "咪咕快游-jpg"
+	}, 
+    {
+		"value": "https://freeserver.migufun.com/resource/beta/apk/20240712112601/MiguPlay-V3.85.1.1_miguzsj.apk",
+		"label": "咪咕快游2"
+	}
+]
+},  {
+	"label": "电信",
+	"options": [
+    {
+		"value": "https://static.e.189.cn/open/login/page/web/v5.0/static/js/captch.min.js?v1.1",
+		"label": "天翼云盘"
+	}, 
+    {
+		"value": "https://cloudmeeting.189.cn/static/js/chunk-vendors.624b9116.js",
+		"label": "天翼云会议"
+	}, 
+    {
+		"value": "https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202030001/CtyunClouddeskUniversal_2.3.0_202030001_x86_20240327104015_Setup.exe",
+		"label": "天翼云桌面"
+	}]
+}, {
+	"label": "百度",
+	"options": [{
+		"value": "https://static-d.iqiyi.com/ext/common/iQIYIMedia_000.dmg",
+		"label": "爱奇艺Mac客户端"
+	}, 
+    {
+		"value": "https://issuecdn.baidupcs.com/issue/netdisk/apk/BaiduNetdiskSetup_wap_share.apk",
+		"label": "网盘APK(CDN)-apk"
+	},
+    {
+		"value": "https://issuepcdn.baidupcs.com/issue/netdisk/MACguanjia/4.46.5/BaiduNetdisk_mac_4.46.5_x64.dmg",
+		"label": "网盘(PCDN)-dmg"
+	}, 
+    {
+		"value": "https://imeres.baidu.com/imeres/ime-res/guanwang/img/1693465040000.png",
+		"label": "百度输入法-png"
+	},
+    {
 		"value": "https://imeres.baidu.com/mac/baiduinput_mac_v6.0.3.66_1000e.dmg",
-		"label": "百度输入法"
+		"label": "百度输入法-dmg"
+	}]
+},{
+	"label": "其他",
+	"options": [
+	{
+		"value": "https://d1.music.126.net/dmusic/NeteaseCloudMusic_Music_official_9.2.50.250219221525_3264.apk",
+		"label": "网易云音乐-apk"
 	}, 
 	{
-		"value": "https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.50.861.exe",
+		"value": "https://s1.xmcdn.com/yx/xmly-live-release/last/dist/Ximalaya-Live-Setup-4.63.933.exe",
 		"label": "喜马拉雅-live"
 	},
 	{
@@ -39,49 +97,8 @@
 	},  
 	{
 		"value": "https://a.sinaimg.cn/mintra/pic/2112130543/weibo_login.mp4",
-		"label": "微博"
+		"label": "微博-mp4"
 	},
-	{
-		"value": "https://h5.cp.139.com/phone/static/images/assets/pages/main/new_main_Intro.png",
-		"label": "移动云手机"
-	}
-]
-}, {
-	"label": "百度",
-	"options": [{
-		"value": "https://static-d.iqiyi.com/ext/common/iQIYIMedia_000.dmg",
-		"label": "爱奇艺MAC客户端"
-	}, {
-		"value": "https://issuecdn.baidupcs.com/issue/netdisk/apk/BaiduNetdiskSetup_wap_share.apk",
-		"label": "网盘APK(CDN)"
-	}, {
-		"value": "https://issuepcdn.baidupcs.com/issue/netdisk/MACguanjia/4.26.0/BaiduNetdisk_mac_4.26.0_arm64.dmg",
-		"label": "网盘(PCDN)"
-	}, {
-		"value": "https://imeres.baidu.com/imeres/ime-res/guanwang/img/1693465040000.png",
-		"label": "百度输入法"
-	}]
-}, {
-	"label": "运营商",
-	"options": [{
-		"value": "https://img.cmvideo.cn/publish/poms/image/1702/804/112/202202141202_352670_HSJ1080H.jpg",
-		"label": "咪咕视频"
-	}, {
-		"value": "https://freeserver.migufun.com/resource/beta/apk/20240712112601/MiguPlay-V3.85.1.1_miguzsj.apk",
-		"label": "咪咕快游"
-	}, {
-		"value": "https://m1.ad.10010.com/small_video/uploadImg/1669798519261.png",
-		"label": "联通静态"
-	}, {
-		"value": "https://vod-origin-rjzy.gdoss.xstore.ctyun.cn/8ee30576c30d40518c4dae03f7eacf3c.mp4",
-		"label": "天翼云"
-	},{
-		"value": "https://static.e.189.cn/open/login/page/web/v5.0/static/js/captch.min.js?v1.1",
-		"label": "天翼云盘"
-	}]
-},{
-	"label": "其他",
-	"options": [
 	{
 		"value": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/harmonyos-3/video/privacy/privacy-safe-center.webm",
 		"label": "华为云"
@@ -90,14 +107,6 @@
 		"value": "https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/d/ud/329682839911.mp4",
 		"label": "阿里CDN"
 	},
-	{
-		"value": "https://f100.g.mi.com/download/AppStore/09b005af75fff45bd88ff8f37d7910ba550d32a07",
-		"label": "小米"
-	},
-	{
-		"value": "https://cdn.aixifan.com/downloads/AcFun-acfunh5-release-6.70.0.1281_x64_738091.apk",
-		"label": "AcFun客户端APK"
-	}, 
 	{
 		"value": "https://dc.xiaohongshu.com/file/pkgs/base/xiaohongshu.apk",
 		"label": "小红书"
@@ -113,10 +122,9 @@
 	{
 		"value": "https://activity.hdslb.com/zzjs/20160608appDownload/img/pc/tittle.png",
 		"label": "哔哩哔哩"
-	},
-	{
-		"value": "https://mesh.if.iqiyi.com/player/upgrade/file/last/IQIYIsetup_app.exe",
-		"label": "爱奇艺PC客户端"
+	},{
+		"value": "https://lf9-cdn-tos.bytecdntp.com/cdn/yuntu-index/1.0.4/case/maiteng/detailbg.png",
+		"label": "今日头条-png"
 	}
 ]
 }]
